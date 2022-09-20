@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "179275950162",
+    "project_id": "flowshop-d9ea8",
+    "storage_bucket": "flowshop-d9ea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179275950162:android:5fe7a4c7ed70210880578b",
+        "android_client_info": {
+          "package_name": "com.example.flowshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179275950162-5adb8c8aigjto4j4cbmj8n1j6nonk5n4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flowshop",
+            "certificate_hash": "c7904326c40f87c3767ec98530dce5c2e3ca6ffc"
+          }
+        },
+        {
+          "client_id": "179275950162-vo8ba35snb7q6a8a4ta8rf304323m2fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyZbh5Hob-vtX26FuFJ30B_R-Nolz1iME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179275950162-vo8ba35snb7q6a8a4ta8rf304323m2fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
